@@ -1,0 +1,6 @@
+@SafeScribeAPI_HostAddress = http://localhost:5064
+
+GET {{SafeScribeAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
