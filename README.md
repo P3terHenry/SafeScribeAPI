@@ -115,7 +115,7 @@ dotnet add package Microsoft.EntityFrameworkCore.InMemory
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/SafeScribeAPI.git
+   git clone https://github.com/P3terHenry/SafeScribeAPI.git
    ```
 
 2. Acesse a pasta do projeto:
